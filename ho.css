@@ -1,0 +1,15 @@
+body{
+    background-image: url("ichi.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgba(255,255,255,0.5);
+    background-blend-mode: lighten;
+}
+h1{
+    background-color: aqua;
+    color: black;
+  }
+#son{
+    background-color: yellow;
+    color: red;
+}
